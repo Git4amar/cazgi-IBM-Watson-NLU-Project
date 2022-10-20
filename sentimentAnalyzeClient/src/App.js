@@ -86,7 +86,7 @@ class App extends React.Component {
       <>
         <div className='container m-auto pt-5 pb-2'>
           <div className='row d-flex justify-content-center'>
-            <span className="w-auto display-1 text-bg-light fst-italic shadow p-3 mb-5 rounded">Sentiment Analyzer</span>
+            <span className="w-auto display-1 text-bg-light fst-italic shadow p-3 mb-5 rounded">Sentiment Analyzer <sup>2.0</sup></span>
           </div>
         </div>
         <div className="container m-auto">
