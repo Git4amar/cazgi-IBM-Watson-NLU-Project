@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: amarpreet-f15-sentiment-analyzer #change to be unique in IBM Cloud
+  name: amarpreet-a25-sentiment-analyzer #change to be unique in IBM Cloud
   memory: 256M
   instances: 1
   random-route: true
